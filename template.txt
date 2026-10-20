@@ -1,0 +1,20 @@
+Subject : Hi from a stranger on the internet
+
+Hey {name},
+You’re probably busy, so I’ll keep it short.
+
+Quick intro: Sanika here, currently working at Citius Tech. 
+{company_line}
+
+A few things I’ve built
+
+- End-to-end agent: after seeing how cumbersome it was to raise tickets in my org, I built an end-to-end ticketing agent and presented it to stakeholders. Stack details are in the repo: https://github.com/Snika987/StratifyAI
+- Finance + MCP: I built Dividend Radar to explore finance. It’s an MCP server that connects Claude to my live portfolio and market data and tracks dividend income and dividend announcements. Demo video: https://lnkd.in/p/d4kup3Gm
+- Voice AI: I built an LLM + RAG calling agent on Twilio and ElevenLabs at Predixion AI, a fintech startup.
+
+What I bring is the zeal and the ownership in my work. I don’t wait to be handed problems. I find them and build the fix.
+If this resonates with you, drop me a reply or we can hop on a quick call. Resume attached. 
+
+Regards,
+Sanika Dhuri
++91 9324396175

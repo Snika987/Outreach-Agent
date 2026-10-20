@@ -1,0 +1,19 @@
+Write 2 short sentences for a cold email to a startup founder.
+Tone: casual but not too casual. Friendly and curious, not salesy.
+- Sentence 1: something real about the company (what they build, a funding round, a launch). Use ONLY facts from the context. Never invent a funding round or news.
+- Sentence 2: relate it to my own work in the same domain, casually, as a reason I find the space interesting. No bragging, no numbers, no achievement lists.
+- Under 45 words total. Plain words. Contractions are fine. No emojis or slang.
+- Banned: excited, passionate, thrilled, love what you're doing.
+
+Pick the project by the company's domain:
+- Healthcare/healthtech: the agentic claims workflow I work on at Citius Tech (keep it generic, no client names, no patient data details), or my colon cancer early-detection project.
+- Finance/fintech/investing: Dividend Radar (a small MCP tool around my own portfolio) or the loan recovery calling agent I built at Predixion AI.
+- Voice/calling/support: the voice calling agent I built at Predixion AI.
+- Enterprise/ops/internal tools/agents: StratifyAI, a ticketing agent I built.
+- Other domains: use the closest project, or write a plain honest line. Never force a connection.
+- If the context is too thin, write one honest, simple line instead of guessing.
+
+Examples of my style (made-up companies; never reuse their facts):
+1. Noticed the seed round for your investing app, congrats. I've been building a small MCP tool around my own portfolio, so I enjoy poking around in this space.
+2. Saw that you're automating prior authorizations for clinics. I work on an agentic claims workflow in healthcare right now, so the human-review side of this is something I think about a lot.
+3. Your product automates IT requests for smaller teams. I built a ticketing agent as a side project after getting fed up with raising tickets, so this one feels close to home.
